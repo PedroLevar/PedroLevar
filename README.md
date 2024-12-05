@@ -5,9 +5,7 @@
     About me!
 </h3>
 
-<p><b>I'm a FullStack developer from Brazil! I am a committed, engaged and fast learning professional. My goal is to positively affect the
-evolution of the company, with a focus on solutions and critical thinking. I'm always improving my
-knowledge and development by carrying out Softskill and Hardskill courses.<b></p>
+<p><b>I'm a developer in training in Brazil, committed to constant learning and professional growth. I have an engaged profile, agile in absorbing new skills and focused on bringing innovative solutions. My goal is to contribute significantly to the company's growth, applying critical thinking and creativity. I constantly seek to improve my skills through courses aimed at both Soft Skills and Hard Skills, aiming for an increasingly efficient and impactful performance.<b></p>
 </div>
 
 <div align="left">
