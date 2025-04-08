@@ -8,10 +8,11 @@
 <p><b>I'm a developer in training in Brazil, committed to constant learning and professional growth. I have an engaged profile, agile in absorbing new skills and focused on bringing innovative solutions. My goal is to contribute significantly to the company's growth, applying critical thinking and creativity. I constantly seek to improve my skills through courses aimed at both Soft Skills and Hard Skills, aiming for an increasingly efficient and impactful performance.<b></p>
 </div>
 
-<div align="left">
- <a href="https://github.com/PedroLevar"></a>
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLevar&show_icons=true&theme=dracula" />
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLevar&layout=compact&theme=dracula" />
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLevar&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLevar&layout=compact&theme=dracula&cache_seconds=1" />
+</p>
+
    
    
 <div style="display: inline_block"> <br><br>
